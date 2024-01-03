@@ -1,7 +1,7 @@
 {
   "name": "resetPwd",
   "version": "1.0.0",
-  "description": "reset user password to \"abcdef\" by user id",
+  "description": "reset user password to 'abcdef' by user id",
   "main": "index.js",
   "author": "Bowen404",
   "license": "MIT"
