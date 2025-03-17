@@ -14,8 +14,7 @@
 
 
 ```
-yarn global add file:/root/.hydro/addons/resetPwd
-hydrooj addon add resetPwd
+hydrooj addon add '/root/.hydro/addons/resetPwd'
 pm2 restart hydrooj
 ```
 
